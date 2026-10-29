@@ -13,7 +13,7 @@ The lessons follow the Chinese national curriculum standards for senior high sch
 ## How to use
 
 - **Online**: click **▶ Open lesson** in the tables below. GitHub only shows the source code of an HTML file, so use these links to see the lessons.
-- **Offline**: download all lessons as one zip from [Releases](https://github.com/smithjohn78390/tongjiang-lab/releases/latest), or download a single lesson from its page on https://lab.tongjiang.app, then open it in Chrome or Edge.
+- **Offline**: download all lessons as one zip from [Releases](https://github.com/smithjohn78390/tongjiang-lab/releases/latest), or download a single lesson from its page on https://lab.tongjiang.app, then open it in Chrome or Edge.- **Offline**: download all lessons as one zip from [Releases](https://github.com/smithjohn78390/tongjiang-lab/releases/latest), or download a single lesson from its page on https://lab.tongjiang.app, then open it in Chrome or Edge. After unzipping, open `index.html` for the lesson catalog (the in-lesson Home button points there too).
 - **Embed**: `<iframe src="https://lab.tongjiang.app/<slug>" width="100%" style="aspect-ratio:16/9;border:0" allow="fullscreen"></iframe>`
 - **Data**: [`catalog.json`](catalog.json) lists every lesson with its textbook location and steps.
 

@@ -13,7 +13,7 @@
 ## 怎么用
 
 - **在线**：点下面表格里的 **▶ 在线上课**。在 GitHub 上点开 HTML 文件只会显示代码，要看课件请用这些链接。
-- **离线**：在 [Releases](https://github.com/smithjohn78390/tongjiang-lab/releases/latest) 下载全部课件的压缩包，或者在 https://lab.tongjiang.app 的课程页下载单门课，用 Chrome 或 Edge 打开。
+- **离线**：在 [Releases](https://github.com/smithjohn78390/tongjiang-lab/releases/latest) 下载全部课件的压缩包，或者在 https://lab.tongjiang.app 的课程页下载单门课，用 Chrome 或 Edge 打开。解压后双击 `index.html` 可进入课程目录（课件内「回家」按钮也指向它）。
 - **嵌入**：`<iframe src="https://lab.tongjiang.app/<slug>" width="100%" style="aspect-ratio:16/9;border:0" allow="fullscreen"></iframe>`
 - **数据**：[`catalog.json`](catalog.json) 列出每门课的教材位置和步骤。
 
